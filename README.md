@@ -4,7 +4,6 @@ I am a year 4 Computer Engineering undergraduate at the National University of S
 
 Currently, I am working on a few projects  🛠 WIP 🛠 :
 - 🛠 [RHDevs](https://github.com/rhdevs)
-  - [Landing Page](https://rhdevs.github.io/landingpage/) (HTML/CSS/Sass)
   - Coordinating Development of oneRH webapp
   
 - 🛠 [Taby](https://taby.info)
