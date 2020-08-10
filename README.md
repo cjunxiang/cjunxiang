@@ -1,4 +1,4 @@
-## Hi there! 😁 I'm **Jun Xiang**
+## Hi there! 😁 I'm **C.Junxiang**
 
 I am a year 4 Computer Engineering undergraduate at the National University of Singapore. I am especially intrigued by user-facing software and effectually in the front-end space. On the same note, I am fascinated by entrepreneurship and particularly the lean methodology. I am expecting to graduate in May 2021 and will be interested in a full-time software opportunity. 
 
