@@ -1,14 +1,8 @@
 ## Hi there! 😁 I'm **C.Junxiang**
 
-I am a year 4 Computer Engineering undergraduate at the National University of Singapore. I am especially intrigued by user-facing software and effectually in the front-end space. On the same note, I am fascinated by entrepreneurship and particularly the lean methodology. I am expecting to graduate in May 2021 and will be interested in a full-time software opportunity. 
+I am a fresh Computer Engineering graduate from the National University of Singapore. I'm excited to be starting my Software Engineering journey officially as a Backend Engineer at a regional tech company and touch more lives along the way! I've always been especially intrigued by user-facing software and effectually in user-facing tech products. On the same note, I am fascinated by entrepreneurship, driving me to have gone on the NOC programme (Shanghai) a year back! 
 
-Currently, I am working on a few projects  🛠 WIP 🛠 :
-- 🛠 [RHDevs](https://github.com/rhdevs)
-  - Coordinating Development of oneRH webapp
-- 🛠 [Capstone Project](https://nusmods.com/modules/CG4002/computer-engineering-capstone-project)
-  - Communications over Bluetooth Low Energy
-
-### Past Experiences
+### Past Tech Experiences
 - Xfers 
 - [Taby](https://taby.info)
 - GoodForFood (Now Lumitics)
