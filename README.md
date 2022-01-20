@@ -15,6 +15,6 @@ Young Software Engineer at a regional tech company. I've always been especially 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=cjunxiang&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect With Me! 
-- [LinkedIn](https://www.linkedin.com/in/junxiangcheng/)
+- [LinkedIn](https://www.linkedin.com/in/cjunxiang/)
 
 <br />
