@@ -2,13 +2,11 @@
 
 Young Software Engineer at a regional tech company. I've always been especially intrigued by user-facing software and effectually in user-facing tech products. My interest and experience lies mostly in application development.
 
-### Languages and Frameworks
+### Languages, Frameworks and Tools
 - React with Typescript
 - Redux.js
 - Node.js (with Express.js)
-- Git
-- HTML
-- CSS
+- HTML/CSS
 - JavaScript / TypeScript
 - Golang
 
